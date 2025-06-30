@@ -7,7 +7,7 @@ function Cards({image,rating,title,paragraph,price}) {
     <Col sm={6} lg={4} xl={3} className='mb-4'>
           <Card className='overflow-hidden'>
             <div className="overflow-hidden">
-                <Card.Img variant='top' src={Image}/>
+                <Card.Img variant='top' src={image}/>
                 </div> 
       <Card.Body>
         <div className='d-flex align-item-center justify-content-between'>
