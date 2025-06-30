@@ -80,7 +80,7 @@ const mockData = [
 
 function Section3() {
   return (
-   <section className='menu_Section'>
+   <section id='menu' className='menu_Section'>
         <Container>
             <Row>
                 <Col lg={{span:8,offset:2}}>
