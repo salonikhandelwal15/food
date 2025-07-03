@@ -145,7 +145,7 @@
     border-radius: 4px;
 }
 .menu_section .menu_price h5{
-    color: var(--yellow);
+    color: var(--white, #ffffff);
     font-size:1rem;
 }
 .menu_section .add_to_card a{

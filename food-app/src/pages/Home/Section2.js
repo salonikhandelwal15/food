@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container,Row,Col } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import Pizza from '../../assets/about/pizza.png';
 import Salad from '../../assets/about/salad.png';
@@ -13,7 +13,7 @@ const mockData = [
   },
   {
     image: Salad,
-    title: "Qualty Foods",
+    title: "Quality Foods",
     paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
   },
   {
@@ -21,48 +21,46 @@ const mockData = [
     title: "Fastest Delivery",
     paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
   },
-  // Add more mock data objects as needed
 ];
-
-
 
 const Section2 = () => {
   return (
     <>
-     <section id='about' className='about_section'>
+      <section id='about' className='about_section'>
         <Container>
-            <Row>
-                <Col lg={{span:8,offset:2}} className='text-center'>
-                <h2>The burger tastes better when you eat it with your family</h2></Col>
-                <p>
-                    Porta semper lacus cursus,feugiat primis ultrice a ligula riscus auctor an tempus feugiat color lacinia cubilia curae integer orcicongue and metus integer primis in integer metus
-                </p>
-                <Link to="/" className='btn order_now btn_red'>
+          <Row>
+            <Col lg={{ span: 8, offset: 2 }} className='text-center'>
+              <h2>The burger tastes better when you eat it with your family</h2>
+              <p>
+                Porta semper lacus cursus, feugiat primis ultrice a ligula riscus auctor an tempus feugiat color lacinia cubilia curae integer orci congue and metus integer primis in integer metus
+              </p>
+              <Link to="/menu" className='order_now'>
                 Explore full Menu
-                </Link>
-            </Row>
+              </Link>
+            </Col>
+          </Row>
         </Container>
-    </section>
-    <section className='about_wrapper'>
+      </section>
+
+      <section className='about_wrapper'>
         <Container>
-            <Row className='justify-content-md-center'>{mockData.map((cardData,index)=>(
-                <Col md={6} lg={4} className='mb-4 mb-md-0' key={index}>
-                    <div className='about_box text-center'>
-                        <div className='about_icon'>
-                            <img src={cardData.image} className = 'img-fluid' 
-                            alt="icon"/>
-                        </div>
-                        <h4>{cardData.title}</h4>
-                        <p>{cardData.paragraph}</p>
-                    </div>
-                </Col>
-            ))}</Row>
+          <Row className='justify-content-md-center'>
+            {mockData.map((cardData, index) => (
+              <Col md={6} lg={4} className='mb-4 mb-md-0' key={index}>
+                <div className='about_box text-center'>
+                  <div className='about_icon mb-3'>
+                    <img src={cardData.image} className='img-fluid' alt="icon" style={{ width: '60px' }} />
+                  </div>
+                  <h4>{cardData.title}</h4>
+                  <p>{cardData.paragraph}</p>
+                </div>
+              </Col>
+            ))}
+          </Row>
         </Container>
-    </section>
-
+      </section>
     </>
-   
-  )
-}
+  );
+};
 
-export default Section2
+export default Section2;
