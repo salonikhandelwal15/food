@@ -10,7 +10,7 @@ function Section7() {
             <Row className='justify-content-center'>
                 <Col sm={8} className='text-center'>
                 <h4>We Guarantee</h4>
-                <h2>30 Minuties Delivery!</h2>
+                <h2>30 Minutes Delivery!</h2>
                 <p>
                     Aliquam a augue,luctus neque purus ipsum neque undo
                     dolor primis libero tempus,blandit a cursus varius luctus neque
