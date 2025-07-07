@@ -145,10 +145,10 @@
     border-radius: 4px;
 }
 .menu_section .menu_price h5{
-    color: var(--white, #ffffff);
+    color: var(--yellow, #ffffff);
     font-size:1rem;
 }
-.menu_section .add_to_card a{
+.menu_section .add_to_cart a{
     background: var(--yellow);
     display:inline-block;
     font-size: 1rem;
@@ -164,7 +164,7 @@
     -o-transition: all 500ms ease-in-out;
     transition: all 500ms ease-in-out;
 }
-.menu_section .card:hover .card-img-top{
+.menu_section .card:hover .cart-img-top{
     transform: scale(1.1);
 }
 .menu_section .card:hover .add_to_cart a{

@@ -15,31 +15,26 @@ function Section4() {
                 <Col lg={6} className='px-5'>
                 <h2>Nothing brings people together like a good burger</h2>
                 <p>
-                    Semper lacus cursus porta primis ligula risus tempus and
-                sagittis ipsum mauris lectus laoreet purus ipsum tempor enim
-                ipsum porta justo integer ultrice aligula lectus aenean magna
-                and pulvinar purus at pretium gravida
+  At Burger Bliss, every bite tells a story. Our burgers are grilled to perfection using high-quality ingredients that deliver both comfort and excitement. It’s not just food—it’s a reason to gather, to laugh, and to create memories.
+</p>
+<ul>
+  <li>
+    <p>
+      Juicy, handcrafted patties made fresh daily with a blend of spices and love.
+    </p>
+  </li>
+  <li>
+    <p>
+      Locally sourced ingredients ensure fresh taste and unbeatable quality.
+    </p>
+  </li>
+  <li>
+    <p>
+      Enjoy quick service and cozy vibes—perfect for family meals, casual hangouts, or a solo burger fix.
+    </p>
+  </li>
+</ul>
 
-                </p>
-                <ul>
-                    <li>
-                        <p>
-                            Fringilla risus, luctus mauris orci auctor purus euismod
-                         pretium purus pretium ligula rutrum tempor sapien
-
-                        </p>
-                    </li>
-                    <li>
-                        <p>Quaerat sodales sapien euismod purus blandit</p>
-                    </li>
-                    <li>
-                        <p>
-                            Nemo ipsam egestas volute turpis dolores ut aliquam quaerat
-                           sodales sapien undo pretium a purus mauris
-
-                        </p>
-                    </li>
-                </ul>
                 </Col>
             </Row>
         </Container>

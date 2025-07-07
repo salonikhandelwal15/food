@@ -24,10 +24,10 @@ function Section1() {
               <h1 className="text-white">New Burger</h1>
               <h2 className="text-white">With Onion</h2>
               <p className="text-white pt-2 pb-4">
-                Feugiat primis ligula risus auctor laoreet augue egestas mauris
-                viverra tortor in iaculis pretium at magna mauris ipsum primis
-                rhoncus feugiat
-              </p>
+  Savor the taste of our freshly grilled New Burger, perfectly layered with crispy onions, juicy patties, and signature sauces. Crafted with premium ingredients to deliver bold flavors in every bite — it’s not just a meal, it's an experience!
+</p>
+
+              
               <Link to="/" className="order_now">
                 Order Now
               </Link>

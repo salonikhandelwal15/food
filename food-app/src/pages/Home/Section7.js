@@ -12,10 +12,9 @@ function Section7() {
                 <h4>We Guarantee</h4>
                 <h2>30 Minutes Delivery!</h2>
                 <p>
-                    Aliquam a augue,luctus neque purus ipsum neque undo
-                    dolor primis libero tempus,blandit a cursus varius luctus neque
-                    magna
-                </p>
+  Hungry now? We’ve got you covered! Our lightning-fast delivery ensures your favorite burgers arrive hot and fresh at your door — all within just 30 minutes. Satisfaction and speed guaranteed!
+</p>
+
                 <Link to="/" className='btn btn_red px-4 py-2 rounded-0'>
                   CALL:999-888-777
                 </Link>

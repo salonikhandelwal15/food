@@ -9,7 +9,7 @@ import Image6 from '../../assets/menu/burger-16.jpg';
 import Image7 from '../../assets/menu/burger-17.jpg';
 import Image8 from '../../assets/menu/burger-18.jpg';
 import Cards from '../../components/Layouts/Cards';
-import { Link } from 'react-router-dom'; // ✅ fixed import
+import { Link } from 'react-router-dom'; // 
 
 const mockData = [
   {
@@ -104,8 +104,9 @@ function Section3() {
           <Col lg={{ span: 8, offset: 2 }} className="text-center mb-5">
             <h2>Our Crazy burgers</h2>
             <p className="para">
-              Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor primis libero tempus, blandit a cursus varius magna
-            </p>
+  From fiery classics to bold new twists, our Crazy Burgers are made to blow your taste buds away! Each burger is crafted with premium ingredients, packed with flavor, and grilled to perfection—get ready for a mouthwatering adventure.
+</p>
+
           </Col>
         </Row>
         <Row>

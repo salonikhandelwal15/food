@@ -24,8 +24,9 @@ function Section5() {
                 <h4>Download mobile App AND</h4>
                 <h2>Save up to 20%</h2>
                 <p>
-                    Aliquam a augue suscipit,luctus neque purus ipsum and neque dolor primis libero tempus,blandit varius
-                </p>
+  Order your favorite burgers on the go and save big! Download our app to unlock exclusive discounts, track your orders, and enjoy fresh, delicious burgers delivered straight to your door.
+</p>
+
                 <Link tp="/">
                 <img src={StoreIOS}alt ="IOS" className='img-fluid store me-3'/>
                 </Link>

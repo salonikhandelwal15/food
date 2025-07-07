@@ -18,12 +18,10 @@ function Section6() {
                                 <div className='user_img'>
                                     <img src={User1} className='img-fluid' alt='User-1'/>
                                 </div>
-                                <p>
-                                    "Etiam sapien sem at sagittis congue augue massa varius
-                                     sodales sapien undo tempus dolor egestas magna suscipit magna 
-                                     tempus aliquet porta sodales augue suscipit luctus neque"
+                              <p>
+  “The burgers here are out of this world! Juicy, flavorful, and always served hot. My go-to place whenever I'm craving something amazing.”
+</p>
 
-                                </p>
                                 <div className='item_rating mb-2'>
                                     <i className='bi bi-star-fill'></i>
                                     <i className='bi bi-star-fill'></i>
@@ -41,12 +39,10 @@ function Section6() {
                                 <div className='user_img'>
                                     <img src={User2} className='img-fluid' alt='User-2'/>
                                 </div>
-                                <p>
-                                    "Etiam sapien sem at sagittis congue augue massa varius
-                                     sodales sapien undo tempus dolor egestas magna suscipit magna 
-                                     tempus aliquet porta sodales augue suscipit luctus neque"
+                               <p>
+  “Fast service and fresh ingredients make this burger joint my favorite. The spicy chicken burger is a total game changer!”
+</p>
 
-                                </p>
                                 <div className='item_rating mb-2'>
                                     <i className='bi bi-star-fill'></i>
                                     <i className='bi bi-star-fill'></i>
@@ -65,11 +61,9 @@ function Section6() {
                                     <img src={User3} className='img-fluid' alt='User-3'/>
                                 </div>
                                 <p>
-                                    "Etiam sapien sem at sagittis congue augue massa varius
-                                     sodales sapien undo tempus dolor egestas magna suscipit magna 
-                                     tempus aliquet porta sodales augue suscipit luctus neque"
+  “Super friendly staff and the best classic cheeseburger in town. I also love their crispy fries and dipping sauces. 10/10 experience.”
+</p>
 
-                                </p>
                                 <div className='item_rating mb-2'>
                                     <i className='bi bi-star-fill'></i>
                                     <i className='bi bi-star-fill'></i>
@@ -84,12 +78,10 @@ function Section6() {
                                 <div className='user_img'>
                                     <img src={User4} className='img-fluid' alt='User-4'/>
                                 </div>
-                                <p>
-                                    "Etiam sapien sem at sagittis congue augue massa varius
-                                     sodales sapien undo tempus dolor egestas magna suscipit magna 
-                                     tempus aliquet porta sodales augue suscipit luctus neque"
+                               <p>
+  “I’m obsessed with their vegan burger! It’s so tasty you won’t believe it’s plant-based. Perfect for guilt-free indulgence.”
+</p>
 
-                                </p>
                                 <div className='item_rating mb-2'>
                                     <i className='bi bi-star-fill'></i>
                                     <i className='bi bi-star-fill'></i>

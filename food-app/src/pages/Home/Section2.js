@@ -9,19 +9,20 @@ const mockData = [
   {
     image: Pizza,
     title: "Original",
-    paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
+    paragraph: `Our original burger recipes are crafted with tradition and passion—featuring juicy patties, fresh buns, and signature sauces that started it all.`,
   },
   {
     image: Salad,
     title: "Quality Foods",
-    paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
+    paragraph: `We use only premium, farm-fresh ingredients in every burger. From crisp lettuce to artisan buns, quality is at the heart of everything we serve.`,
   },
   {
     image: Delivery,
     title: "Fastest Delivery",
-    paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
+    paragraph: `Hot, fresh, and fast—get your favorite burgers delivered to your doorstep in record time with our efficient and reliable delivery service.`,
   },
 ];
+
 
 const Section2 = () => {
   return (
@@ -32,8 +33,9 @@ const Section2 = () => {
             <Col lg={{ span: 8, offset: 2 }} className='text-center'>
               <h2>The burger tastes better when you eat it with your family</h2>
               <p>
-                Porta semper lacus cursus, feugiat primis ultrice a ligula riscus auctor an tempus feugiat color lacinia cubilia curae integer orci congue and metus integer primis in integer metus
-              </p>
+  At Burger Bliss, we believe a burger is more than just food—it's a moment of joy. Our burgers are made with fresh, locally sourced ingredients, hand-crafted patties, and bold flavors that bring people together. Whether you're dining in or ordering out, taste the love in every bite.
+</p>
+
               <Link to="/menu" className='order_now'>
                 Explore full Menu
               </Link>
