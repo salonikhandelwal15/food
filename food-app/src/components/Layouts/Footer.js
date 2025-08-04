@@ -95,7 +95,7 @@ function Footer(){
                         <ul className='listunstyled text-center mb-0'>
                             <li>
                                 <Link to="/">
-                                @ 2025 <span> SmashLab Burgers</span>. All Rights Reserved
+                                © 2025 <span> SmashLab Burgers</span>. All Rights Reserved
                                 </Link>
                             </li>
                             <li>
