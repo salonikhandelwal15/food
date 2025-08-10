@@ -1,4 +1,4 @@
-\# 🍔 Burger Ordering Website
+# 🍔 Burger Ordering Website
 
 
 
@@ -10,7 +10,7 @@ A stylish and interactive burger ordering web application with \*\*smooth naviga
 
 
 
-\## ✨ Features
+### ✨ Features
 
 
 
@@ -28,7 +28,7 @@ A stylish and interactive burger ordering web application with \*\*smooth naviga
 
 
 
-\## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 
 
@@ -46,7 +46,9 @@ A stylish and interactive burger ordering web application with \*\*smooth naviga
 
 
 
-🎥 \*\*Live Demo:\*\* \[Click Here](https://food-zeta-ecru.vercel.app/)
+### 🎥 Live Demo: 
+
+###### (https://food-zeta-ecru.vercel.app/)
 
 
 
