@@ -2,7 +2,7 @@
 
 
 
-A stylish and interactive burger ordering web application with \*\*smooth navigation\*\* and \*\*parallax scroll effect\*\* for a delightful user experience.
+A stylish and interactive burger ordering web application with **smooth navigation** and **parallax scroll effect** for a delightful user experience.
 
 
 
@@ -14,13 +14,13 @@ A stylish and interactive burger ordering web application with \*\*smooth naviga
 
 
 
-\- 🧭 \*\*Smooth Navigation\*\* — Jump to any part of the site with ease.  
+\- 🧭 **Smooth Navigation** — Jump to any part of the site with ease.  
 
-\- 🎢 \*\*Parallax Scroll Effect\*\* — Eye-catching layered scroll animations.  
+\- 🎢 **Parallax Scroll Effect** — Eye-catching layered scroll animations.  
 
-\- 📱 \*\*Responsive Design\*\* — Works perfectly on mobile, tablet, and desktop.  
+\- 📱 **Responsive Design** — Works perfectly on mobile, tablet, and desktop.  
 
-\- 🍟 \*\*Interactive UI\*\* — Makes burger ordering simple and fun.  
+\- 🍟 **Interactive UI** — Makes burger ordering simple and fun.  
 
 
 
@@ -32,13 +32,13 @@ A stylish and interactive burger ordering web application with \*\*smooth naviga
 
 
 
-\- 🖋 \*\*HTML5\*\* — Semantic structure and content.  
+\- 🖋 **HTML5** — Semantic structure and content.  
 
-\- 🎨 \*\*CSS3\*\* — Styling, layouts, and responsive design.  
+\- 🎨 **CSS3** — Styling, layouts, and responsive design.  
 
-\- ⚡ \*\*JavaScript (ES6+)\*\* — Interactive functionality.  
+\- ⚡ **JavaScript(ES6+)** — Interactive functionality.  
 
-\- ⚛ \*\*React.js\*\* — Component-based UI and state management.  
+\- ⚛  **React.js** — Component-based UI and state management.  
 
 
 
